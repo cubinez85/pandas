@@ -1,0 +1,51 @@
+[
+    {
+        "Weekday": "mon",
+        "Shop_1": "7",
+        "Shop_2": "1",
+        "Shop_3": "7",
+        "Shop_4": "8"
+    },
+    {
+        "Weekday": "tue",
+        "Shop_1": "4",
+        "Shop_2": "2",
+        "Shop_3": "4",
+        "Shop_4": "5"
+    },
+    {
+        "Weekday": "wed",
+        "Shop_1": "3",
+        "Shop_2": "5",
+        "Shop_3": "2",
+        "Shop_4": "3"
+    },
+    {
+        "Weekday": "thu",
+        "Shop_1": "8",
+        "Shop_2": "12",
+        "Shop_3": "8",
+        "Shop_4": "7"
+    },
+    {
+        "Weekday": "fri",
+        "Shop_1": "15",
+        "Shop_2": "11",
+        "Shop_3": "13",
+        "Shop_4": "9"
+    },
+    {
+        "Weekday": "sat",
+        "Shop_1": "21",
+        "Shop_2": "18",
+        "Shop_3": "17",
+        "Shop_4": "21"
+    },
+    {
+        "Weekday": "sun",
+        "Shop_1": "25",
+        "Shop_2": "16",
+        "Shop_3": "25",
+        "Shop_4": "17"
+    }
+]

@@ -1,0 +1,1 @@
+NAME = 'pandas_dir'
